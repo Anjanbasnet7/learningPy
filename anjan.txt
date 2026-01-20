@@ -1,0 +1,31 @@
+Rajesh Kumar | Grocery Store Owner | 41 | 9812345678
+Sunita Devi | Housekeeping Staff | 36 | 9823456789
+Amit Sharma | Junior Software Developer | 24 | 9834567890
+Pawan Yadav | Delivery Executive | 29 | 9845678901
+Neha Singh | Call Center Executive | 27 | 9856789012
+Rakesh Thapa | Taxi Driver | 45 | 9867890123
+Anjali Verma | Primary School Teacher | 33 | 9878901234
+Sanjay Mishra | Construction Supervisor | 48 | 9889012345
+Pooja Rai | Front Desk Receptionist | 26 | 9890123456
+Vikram Patel | Hardware Shop Owner | 39 | 9801234567
+Kavita Joshi | Tailoring Assistant | 34 | 9813456780
+Rohit Meena | Field Sales Executive | 31 | 9824567801
+Meena Karki | Anganwadi Worker | 42 | 9835678012
+Nitin Agarwal | Accounts Assistant | 28 | 9846780123
+Sapna Shrestha | Nursing Assistant | 35 | 9857801234
+Deepak Rawat | Security Guard | 44 | 9868012345
+Manish Gupta | Mobile Repair Technician | 30 | 9870123456
+Rekha Pandey | Beauty Parlour Staff | 29 | 9881234560
+Arjun Bohara | Computer Lab Assistant | 25 | 9892345601
+Suresh Chaudhary | Warehouse Helper | 38 | 9803456012
+Priyanka Malhotra | Digital Marketing Intern | 23 | 9814560123
+Bikash Lama | Internet Service Technician | 34 | 9825601234
+Alok Singh | Assistant Site Engineer | 37 | 9836012345
+Nirmala KC | Office Peon | 46 | 9847123456
+Ravi Shah | Small Business Accountant | 40 | 9858234567
+Komal Arora | HR Coordinator | 32 | 9869345678
+Dinesh Rana | Municipal Cleaner | 49 | 9870456789
+Sneha Kulkarni | Data Entry Operator | 27 | 9881567890
+Mohit Bansal | Operations Executive | 35 | 9892678901
+Anita Thakur | Community Health Worker | 43 | 9803789012
+kritan | hacker | 12 | 987777777
